@@ -1,0 +1,81 @@
+body {
+    font-family: 'Gill Sans';
+    color: white;
+}
+
+p {
+    color: black;
+}
+
+.blue-container {
+
+    background-color: rgb(76, 69, 218);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.navbar {
+    background-color: rgb(85, 182, 132);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.navbar label {
+    margin-right: 10px;
+}
+
+.content {
+    background-color: rgb(243, 245, 247);
+    border: 1.5px solid rgb(216, 216, 216);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 100%;
+    border: 1.5px solid rgb(216, 216, 216);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.yellow-border-container {
+    border: 1.5px solid rgb(222, 174, 89);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+
+.yellow-container {
+    background-color: rgb(233, 162, 59);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer .content {
+    margin-top: 20px;
+    text-align: center;
+}
