@@ -3,7 +3,11 @@
 <head>
     <title>Day 5</title>
 </head>
-
+<script>
+    function reset() {
+        document.querySelector("input").value = "";
+    }
+</script>
 
 <body>
     <header>
@@ -11,6 +15,7 @@
         <form>
             <input type="text" placeholder="Search products..." />
             <button type="submit">Search</button>
+            <button type="button" onclick="reset()">Reset</button>
         </form>
     </header>
 </body>
